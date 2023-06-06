@@ -7,7 +7,7 @@ My public GitHub repositories can be found [here](https://github.com/RealGUpperc
 
 My profile picture is a character called ***Purple Tentacle*** from a video game I loved as a child, [Day of the Tentacle](https://en.wikipedia.org/wiki/Day_of_the_Tentacle).
 
-
+<img src="dott.jpg" width="1500" height="400">
 
 This is also due to the fact that there aren't any pictures of me taken in the last 10 years where I look better than a weird, slimy tentacle guy.
 
@@ -18,5 +18,7 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 + Firstly accepting a **flexible** attitude to personal progress (specifically that an individuals capacity for learning is never static), means that learning is achievable for *everyone* when effort is applied over time.
 + Learners accept that the are obstacles that will be encountered during education are temporary. By fully embracing the idea that an individuals skills will improve over time, a learner will be able to process and overcome various negative feelings they may experience.  
 
-This image demonstrates how a **Growth Mindset** can help to overcome some common obstacles to learning resulting from a **Fixed Mindset**:  
+This image demonstrates how a **Growth Mindset** can help to overcome some common obstacles to learning resulting from a **Fixed Mindset**: 
+
+<img src="GrowthMindset" width="450" height="600" style="align-middle">
    
