@@ -23,3 +23,6 @@ This image demonstrates how a **Growth Mindset** can help to overcome some commo
 <img src="GrowthMindset.jpg" width="1200" height="550">
 
 ### How will I try to adopt a Growth Mindset?
++ Way 1
++ Way 2
++ Way 3
