@@ -7,7 +7,7 @@ My public GitHub repositories can be found [here](https://github.com/RealGUpperc
 
 My profile picture is a character called ***Purple Tentacle*** from a video game I loved as a child, [Day of the Tentacle](https://en.wikipedia.org/wiki/Day_of_the_Tentacle).
 
-
+<img src="dott.jpg" width="1500" height="400">
 
 This is also due to the fact that there aren't any pictures of me taken in the last 10 years where I look better than a weird, slimy tentacle guy.
 
