@@ -21,3 +21,5 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 This image demonstrates how a **Growth Mindset** can help to overcome some common obstacles to learning resulting from a **Fixed Mindset**:  
    
 <img src="GrowthMindset.jpg" width="1200" height="550">
+
+### How will I try to adopt a Growth Mindset?
