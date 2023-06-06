@@ -18,4 +18,6 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 + Firstly accepting a **flexible** attitude to personal progress (specifically that an individuals capacity for learning is never static), means that learning is achievable for *everyone* when effort is applied over time.
 + Learners accept that the are obstacles that will be encountered during education are temporary. By fully embracing the idea that an individuals skills will improve over time, a learner will be able to process and overcome various negative feelings they may experience.  
 
-This image demonstrates how a **Growth Mindset** can help to overcome some common obstacles to learning resulting from a **Fixed Mindset**:    
+This image demonstrates how a **Growth Mindset** can help to overcome some common obstacles to learning resulting from a **Fixed Mindset**:  
+
+<img src="GrowthMindset.jpg" width="1200" height="550">
