@@ -29,7 +29,8 @@ I will remember **The Learning Pit** and recall previous times when learning new
 ![Example of The Learning Pit concept](learningpit.jpg)
 
 + #### Being mindful of what has been achieved so far
-At the time of writing this page, I have been studying for two days. I am pleased with the progress I have made so far so there isn't any reason why this won't continue throughout the course.  
+At the time of writing this page, I have been studying for two days.  
+I am pleased with the progress I have made so far so there isn't any reason why this won't continue throughout the course.  
 
 + #### Being prepared to encounter new topics  
 Reading ahead in the course material will help me avoid feeling overwhelmed when a lot of new information is presented over a short amount of time.
