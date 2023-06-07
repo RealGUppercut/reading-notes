@@ -25,6 +25,8 @@ This image demonstrates how a **Growth Mindset** can help to overcome some commo
 ### How will I try to adopt a Growth Mindset?
 + #### Managing feelings of inadequecy
 I will remind myself that I am more than capable of **learning**.  
+I will remember **The Learning Pit** and recall previous times when learning new concepts has been difficult but I have eventually succeeded.  
+![Example of The Learning Pit concept](learningpit.jpg)
 
 + #### Being mindful of what has been achieved so far
 
