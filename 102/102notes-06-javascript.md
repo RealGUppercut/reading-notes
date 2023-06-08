@@ -68,7 +68,7 @@ let thisnum = --mynum
 + !==  
 **not equal value and not equal type**
 
-+ >  
++ ">"  
 **greater than**
 
 + <  
@@ -92,8 +92,8 @@ let thisnum = --mynum
 + if (mynum === 5) {  
     console.log("Bingo");  
 } else{  
-    "That is not a bingo"  
-}
+    "That is not a bingo"   
+}  
 **Else will output if the first condition is false**  
 
 + if (mynum === 5) {    
@@ -104,3 +104,15 @@ let thisnum = --mynum
     "That is not a bingo"  
 }  
 **Multiple conditions can be used as above**  
+
+## Prompting
+
++ let userName = prompt("What is your name?");  
+**creates a box that can be typed into that captures the user input and defines the variable to that input**  
+**A prompt will interrupt loading of html code until the prompt is completed by a user? Something to test out**
+
+## Alerting
+
++ const welcomeMsg = alert("Welcome to my website " + userName);  
+**Shows a box without enterable fields**  
+
