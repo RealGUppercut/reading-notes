@@ -34,24 +34,24 @@ this code is good
 
 ## Arithmatic Operators
 
-+ let addition = 7 **+** 7  
++ let addition = 7 + 7  
 **for addition**
 
-+ let subtraction = 5 **-** 2  
++ let subtraction = 5 - 2  
 **for subtraction**
 
 + let multiplication = 5 * 2  
 **for multiplication**
 
-+ let division = 10 **/** 2  
++ let division = 10 / 2  
 **for division**
 
 + let mynum = 5  
-let thisnum = **++**mynum  
+let thisnum = ++mynum  
 **increases number by one**
 
 + let mynum = 5  
-let thisnum = **--**mynum  
+let thisnum = --mynum  
 **decreases number by one**
 
 ##Comparison Operators
@@ -74,7 +74,7 @@ let thisnum = **--**mynum
 + <  
 **less than**
 
-+ >=  
++ ">="  
 **greater than or equal to**
 
 + <=  
