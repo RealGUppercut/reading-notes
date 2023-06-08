@@ -27,21 +27,21 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 
 ### Course 201  
   
- - [Class 01](/201/201notes-01.md)  
- - [Class 02](/201/201notes-02.md)  
- - [Class 03](/201/201notes-03.md)  
- - [Class 04](/201/201notes-04.md)  
- - [Class 05](/201/201notes-05.md)  
- - [Class 06](/201/201notes-06.md)  
- - [Class 07](/201/201notes-07.md)  
- - [Class 08](/201/201notes-08.md)  
- - [Class 09](/201/201notes-09.md)  
- - [Class 10](/201/201notes-10.md)  
- - [Class 11](/201/201notes-11.md)  
- - [Class 12](/201/201notes-12.md)  
- - [Class 13](/201/201notes-13.md)  
- - [Class 14](/201/201notes-14.md)  
- - [Class 15](/201/201notes-15.md)  
+- [Class 01](/201/201notes-01.md)  
+- [Class 02](/201/201notes-02.md)  
+- [Class 03](/201/201notes-03.md)  
+- [Class 04](/201/201notes-04.md)  
+- [Class 05](/201/201notes-05.md)  
+- [Class 06](/201/201notes-06.md)  
+- [Class 07](/201/201notes-07.md)  
+- [Class 08](/201/201notes-08.md)  
+- [Class 09](/201/201notes-09.md)  
+- [Class 10](/201/201notes-10.md)  
+- [Class 11](/201/201notes-11.md)  
+- [Class 12](/201/201notes-12.md)  
+- [Class 13](/201/201notes-13.md)  
+- [Class 14](/201/201notes-14.md)  
+- [Class 15](/201/201notes-15.md)  
 
 
 # Maintaining a Growth Mindset during this course:
