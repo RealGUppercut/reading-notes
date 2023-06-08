@@ -54,7 +54,7 @@ let thisnum = ++mynum
 let thisnum = --mynum  
 **decreases number by one**
 
-##Comparison Operators
+## Comparison Operators
 
 + ==  
 **Equal to**
@@ -80,4 +80,27 @@ let thisnum = --mynum
 + <=  
 **less than or equal to**
 
+## Conditional Statement  
+### Controls whether a piece of code should run or not  
 
++ if (mynum === 5) {  
+    console.log("Bingo");
+}  
+**Prints if entered value ***strictly*** matches input (is true)**  
+**The above comparison operators can be used**  
+
++ if (mynum === 5) {  
+    console.log("Bingo");  
+} else{  
+    "That is not a bingo"  
+}
+**Else will output if the first condition is false**  
+
++ if (mynum === 5) {    
+    console.log("Bingo");  
+} if else (mynum === 4); {  
+    console.log("You are close");  
+} else {  
+    "That is not a bingo"  
+}  
+**Multiple conditions can be used as above**  
