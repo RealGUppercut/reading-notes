@@ -12,6 +12,18 @@ My profile picture is a character called ***Purple Tentacle*** from a video game
 This is also due to the fact that there aren't any pictures of me taken in the last 10 years where I look better than a weird, slimy tentacle guy.
 
 ---
+# Links to reading notes:  
+
+### Course 102  
++ [Class 01 - Markdown](102notes-01.md)
++ Class 02 - The Coders Computer
++ Class 03 - Revisions and the Cloud
++ Class 04 - Structuring web pages with HTML
++ Class 05 - Designing Webpages with CSS
++ Class 06 - Dynamic Web Pages with Javascript
++ Class 07 - Programming with Javascript
++ Class 08 - Operators and Loops
+
 # Maintaining a Growth Mindset during this course:
 ### What is a Growth Mindset?
 + A Growth Mindset is a way of approaching the process of learning new skills.  
