@@ -43,6 +43,7 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 - [Class 14](/201/201notes-14.md)  
 - [Class 15](/201/201notes-15.md)  
 
+---
 
 # Maintaining a Growth Mindset during this course:
 ### What is a Growth Mindset?
