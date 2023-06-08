@@ -81,7 +81,7 @@ let thisnum = --mynum
 **less than or equal to**
 
 ## Conditional Statement  
-### Controls whether a piece of code should run or not  
+**Controls whether a piece of code should run or not**  
 
 + if (mynum === 5) {  
     console.log("Bingo");
