@@ -21,7 +21,7 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 - [Class 03 - Revisions and the Cloud](102/102notes-03.md)  
 - [Class 04 - Structuring web pages with HTML](102/102notes-04.md)  
 - [Class 05 - Designing Webpages with CSS](102/102notes-05.md)  
-- [Class 06 - Dynamic Web Pages with Javascript](102/102notes-06-javascript.md)  
+- [Class 06 - Dynamic Web Pages with Javascript](102/102notes-06-javascript.md) 
 - [Class 07 - Programming with Javascript](102/102notes-07.md)  
 - [Class 08 - Operators and Loops](102/102notes-08.md)  
 
