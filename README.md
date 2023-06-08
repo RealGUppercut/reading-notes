@@ -15,16 +15,16 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 # Links to reading notes:  
 
 ### Course 102  
-<ul>
-<li>[Class 01 - Markdown](102notes-01.md)</li>  
-<li>[Class 02 - The Coders Computer](102notes-02.md)</li>
-<li>[Class 03 - Revisions and the Cloud](102notes-03.md)</li> 
-<li>[Class 04 - Structuring web pages with HTML](102notes-04.md)</li>
-<li>[Class 05 - Designing Webpages with CSS](102notes-05.md)</li>
-<li>[Class 06 - Dynamic Web Pages with Javascript](102notes-06-javascript.md)</li>
-<li>[Class 07 - Programming with Javascript](102notes-07.md)</li>
-<li>[Class 08 - Operators and Loops](102notes-08.md)</li>
-</ul>
+
+- [Class 01 - Markdown](102notes-01.md)  
+- [Class 02 - The Coders Computer](102notes-02.md)  
+- [Class 03 - Revisions and the Cloud](102notes-03.md)  
+- [Class 04 - Structuring web pages with HTML](102notes-04.md)  
+- [Class 05 - Designing Webpages with CSS](102notes-05.md)  
+- [Class 06 - Dynamic Web Pages with Javascript](102notes-06-javascript.md)  
+- [Class 07 - Programming with Javascript](102notes-07.md)  
+- [Class 08 - Operators and Loops](102notes-08.md)  
+
 
 # Maintaining a Growth Mindset during this course:
 ### What is a Growth Mindset?
