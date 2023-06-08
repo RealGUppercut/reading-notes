@@ -23,9 +23,9 @@ this code is good
 
 ## Data Types (Values)
 
-+ let myname =("Joe") // this data type is a **string**
++ let myname =("Joe") this data type is a **string**
 
-+ let age =(37) // this data type is a **number**
++ let age =(37) this data type is a **number**
 
 + **concatenating is linking together e.g.**
     let mydetails ="I am" + age;
