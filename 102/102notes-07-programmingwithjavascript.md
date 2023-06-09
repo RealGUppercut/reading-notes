@@ -44,33 +44,33 @@ if
 
 ## Arrays
 
-+ **For loop**
-let myPets = ["dog", "cat", "rat"]
-for (**initialisation/condition/increment**){}
-for (let i = 0; i < mypets.length; i++>){
-console.log("I love my pet " + myPets[i])
-}
-**dog is 0 in the array, sat is 2 and rat is 3**
-**i++ increases i by 1**
-i < mypets.length **checks the length of i**
-[i] **refers to the i position in the array**
++ **For loop**  
+let myPets = ["dog", "cat", "rat"]  
+for (**initialisation/condition/increment**){}  
+for (let i = 0; i < mypets.length; i++>){  
+console.log("I love my pet " + myPets[i])  
+}  
+**dog is 0 in the array, sat is 2 and rat is 3**  
+**i++ increases i by 1**  
+i < mypets.length **checks the length of i**  
+[i] **refers to the i position in the array**  
+  
++ **While loop**  
+while(**condition**){  
+    **statement**  
+}  
 
-+ **While loop**
-while(**condition**){
-    **statement**
-}
+let n = 0  
+let x = 0  
 
-let n = 0
-let x = 0
+while(n < 3){  
+    n++  
+    x +=n;  
+    console.log(n);  
+    console.log(x);  
+}  
 
-while(n < 3){
-    n++
-    x +=n;
-    console.log(n);
-    console.log(x);
-}
-
-if (x < 3) {
-    **break**;
-}
-**will end the script upon condition being met**
+if (x < 3) {  
+    **break**;  
+}  
+**will end the script upon condition being met**  

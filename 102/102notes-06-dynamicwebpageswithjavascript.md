@@ -109,9 +109,9 @@ let thisnum = --mynum
 
 + let userName = prompt("What is your name?");  
 **creates a box that can be typed into that captures the user input and defines the variable to that input**  
-**A prompt will interrupt loading of html code until the prompt is completed by a user? Something to test out**
+**A prompt will interrupt loading of html code until the prompt is completed by a user? Something to test out**  
 
 ## Alerting
 
-+ const welcomeMsg = alert("Welcome to my website " + userName);  
-**Shows a box without enterable fields**  
++ const welcomeMsg = alert("Welcome to my website " + userName);      
+**Shows a box without enterable fields**   
