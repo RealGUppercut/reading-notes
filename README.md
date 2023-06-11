@@ -17,7 +17,7 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 ### Course 102  
 
 - [Class 01 - Markdown](/102/102notes-01-learningmarkdown.md)  
-- [Class 02 - The Coders Computer](/102/102notes-02.md)  
+- [Class 02 - The Coders Computer](/102/102notes-02-thecoderscomputer.md)  
 - [Class 03 - Revisions and the Cloud](/102/102notes-03.md)  
 - [Class 04 - Structuring web pages with HTML](/102/102notes-04.md)  
 - [Class 05 - Designing Webpages with CSS](/102/102notes-05.md)  
@@ -28,7 +28,7 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 ### Course 201  
   
 - [Class 01](/201/201notes-01.md)  
-- [Class 02](/201/201notes-02.md)  
+- [Class 02](/201/201notes-01.md)  
 - [Class 03](/201/201notes-03.md)  
 - [Class 04](/201/201notes-04.md)  
 - [Class 05](/201/201notes-05.md)  
