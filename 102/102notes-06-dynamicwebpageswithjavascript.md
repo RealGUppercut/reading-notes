@@ -1,4 +1,4 @@
-# Dynamic Webpages with Javascript Notes  
+# Dynamic Webpages with Javascript  
 
 ---
 
