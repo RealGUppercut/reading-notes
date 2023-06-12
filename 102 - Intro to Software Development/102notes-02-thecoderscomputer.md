@@ -30,6 +30,6 @@ usually one project = 1 repository.
 - git add -A (will add all unadded files for commital)
 - git commit -m "" (will commit with a changelog message)
 - git push (pushes changes to github)
-- git branch (will created named branch)
+- git branch (will created named branch)(will need to push after branch is created)
 - git checkout (will switch to named branch)
 - git push origin -u (pushes from specific branch)
