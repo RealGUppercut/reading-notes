@@ -30,3 +30,6 @@ ACP in git:
 - git add -A (will add all unadded files for commital)
 - git commit -m "" (will commit with a changelog message)
 - git push (pushes changes to github)
+- git branch (will created named branch)
+- git checkout (will switch to named branch)
+- git push origin -u (makes another branch default branch)
