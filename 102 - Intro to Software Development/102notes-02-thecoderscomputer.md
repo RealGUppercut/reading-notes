@@ -32,4 +32,4 @@ ACP in git:
 - git push (pushes changes to github)
 - git branch (will created named branch)
 - git checkout (will switch to named branch)
-- git push origin -u (makes another branch default branch)
+- git push origin -u (pushes from specific branch)
