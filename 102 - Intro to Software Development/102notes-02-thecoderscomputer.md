@@ -23,7 +23,7 @@ usually one project = 1 repository.
 - make new repository 
 - git clone (paste clone address from gitHub)     
 
-ACP in git:
+## git commands:
 
 - git status 
 - git add "" (will add specified files for commital)
