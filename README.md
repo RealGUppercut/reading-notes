@@ -25,9 +25,9 @@ This is also due to the fact that there aren't any pictures of me taken in the l
 - [Class 07 - Programming with Javascript](/102/102notes-07-programmingwithjavascript.md)  
 - [Class 08 - Operators and Loops](/102/102notes-08.md)  
 
-### Course 201  
+### Course 201 - Introduction to Web Development
   
-- [Class 01](/201/201notes-01.md)  
+- [Class 01](/201/201notes-01-setupdevelopertoolbelt.md)  
 - [Class 02](/201/201notes-01.md)  
 - [Class 03](/201/201notes-03.md)  
 - [Class 04](/201/201notes-04.md)  
