@@ -32,4 +32,3 @@ usually one project = 1 repository.
 - git push (pushes changes to github)
 - git branch (will created named branch)
 - git checkout (will switch to named branch)
-10 + 10 =
