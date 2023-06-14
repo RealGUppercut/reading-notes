@@ -29,7 +29,7 @@ This is also due to the fact that there aren't any pictures of me taken in the l
   
 - [Class 01](/201%20-%20Introduction%20to%20Web%20Development/201notes-01-setupdevelopertoolbelt.md)
 - [Class 02](/201%20-%20Introduction%20to%20Web%20Development/201notes-02-basicsofhtmlcssandjavascript.md)  
-- [Class 03](/201/201notes-03.md)  
+- [Class 03](/201%20-%20Introduction%20to%20Web%20Development/201notes-03-htmllistsontrolflowwithjsandthecssboxmodel.md)  
 - [Class 04](/201/201notes-04.md)  
 - [Class 05](/201/201notes-05.md)  
 - [Class 06](/201/201notes-06.md)  
